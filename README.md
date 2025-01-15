@@ -11,7 +11,7 @@
 
 ## 내용
 
-[여기](https://ncnc.notion.site/React-Native-cbc6e46a71f44e7db559157d933d8ebd?pvs=4)에서 확인할 수 있습니다.
+[여기](https://ncnc.notion.site/React-Native-cbc6e46a71f44e7db559157d933d8ebd)에서 확인할 수 있습니다.
 
 ## 작성 및 제출
 
@@ -46,7 +46,7 @@
 #### 제출 기한
 
 시작일로부터 **5일**
-(ex. 2023년 11월 1일 시작 → 2023년 11월 5일까지)
+(ex. 2025년 1월 15일 시작 → 2025년 1월 20일까지)
 
 #### 미제출 간주 사항
 
